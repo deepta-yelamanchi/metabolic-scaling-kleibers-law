@@ -67,4 +67,23 @@ The study bridges **mathematics, biology, and engineering-style reasoning**, ref
 
 ---
 
-## 📁 Repository Structure
+## 🚀 Future Extensions
+- Expansion to additional age groups and sexes
+- Incorporation of body composition (lean vs fat mass)
+- Nonlinear and multivariable metabolic modeling
+- Translation into computational tools for biomedical analysis
+
+---
+
+## 👩‍🔬 Author
+**Deepta Yelamanchi**  
+Independent Student Researcher  
+Aspiring Biomedical Engineer  
+Interests: physiological modeling, metabolic systems, biomedical data analysis
+
+---
+
+## 📜 Disclaimer
+This work is an **independent academic research project** created for educational and portfolio purposes.  
+All external data sources are properly cited in the paper.
+
