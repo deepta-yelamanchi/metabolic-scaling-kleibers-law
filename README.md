@@ -34,7 +34,7 @@ The study bridges **mathematics, biology, and engineering-style reasoning**, ref
 
 ## 📄 Research Paper
 📘 **A Study of Metabolic Rate and Kleiber’s Law**  
-➡️ [`A Study of Metabolic Rate and Kleiber’s Law.pdf`](./A Study of Metabolic Rate and Kleiber’s Law.pdf)
+➡️ [`A Study of Metabolic Rate and Kleiber’s Law.pdf`](./A%20Study%20of%20Metabolic%20Rate%20and%20Kleiber%E2%80%99s%20Law.pdf)
 
 ---
 
